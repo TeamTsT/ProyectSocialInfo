@@ -2,156 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b59ef9-d31b-4c9c-afa1-f713da440f91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/Jplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/avatar-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/avatar6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/badge-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/badge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/button_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/categories_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/chosen-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/chosen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/comment_sub.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/feature_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/infobox_label.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/input-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/join-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/jp-controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/jslider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/menu-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/menu-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/music-player4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/music-player5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/music-player6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/pagination.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/portfolio-filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/post-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/post-icons2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/post_image_controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/post_img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/post_img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/post_img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/post_img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/post_img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/post_label.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/posted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/ribbons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/seeking.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/sign-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/slider-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/slider_controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/social-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/social-icons2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/star_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/star_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/stats-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox_large2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_checkbox_large3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_radiobutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_radiobutton2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/styled_radiobutton3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/tabimage1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/tabimage10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/tabimage2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/tabimage8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/tabimage9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/tabs-see-more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/team-contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/toggle_mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/trade-dir.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/trade-graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/trade-header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/twitter-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/video-js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/video_controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/temp/vjs_poster2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/weather-air.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/images/icons/weather-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/libs/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/general.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/css/jplayer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jplayer.playlist.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/libs/jquery-1.10.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/css/jquery-ui-1.8.20.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/libs/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery-ui.multidatespicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.customInput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.jplayer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.jscrollpane.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.powerful-placeholder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.slider.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/jquery.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/css/jslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/libs/modernizr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/progressbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/css/video-js.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-notification/js/video.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metro-vibes-css/index.html" afterPath="$PROJECT_DIR$/metro-vibes-css/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="proyectSocial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,13 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module-notification/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="104" selection-start="7643" selection-end="7643" vertical-scroll-proportion="0.7442623" vertical-offset="3037" max-vertical-offset="7123">
+            <state line="192" column="104" selection-start="7643" selection-end="7643" vertical-scroll-proportion="-4.3653846" vertical-offset="3037" max-vertical-offset="7123">
               <folding>
                 <marker date="1417412359129" expanded="true" signature="6521:6579" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -211,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/metro-vibes-css/index.html" />
         <option value="$PROJECT_DIR$/module-notification/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -264,6 +126,16 @@
               <option name="myItemId" value="proyectSocial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyectSocial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyectSocial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="module-notification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -298,16 +170,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="metro-vibes-css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proyectSocial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proyectSocial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,10 +221,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -434,10 +296,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module-notification/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="104" selection-start="7643" selection-end="7643" vertical-scroll-proportion="0.7442623" vertical-offset="3037" max-vertical-offset="7123">
+        <state line="192" column="104" selection-start="7643" selection-end="7643" vertical-scroll-proportion="-4.3653846" vertical-offset="3037" max-vertical-offset="7123">
           <folding>
             <marker date="1417412359129" expanded="true" signature="6521:6579" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
         </state>
       </provider>
     </entry>
